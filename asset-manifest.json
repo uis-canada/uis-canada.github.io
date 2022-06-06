@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f3077ba0.css",
-    "main.js": "/static/js/main.63ba1619.js",
+    "main.css": "/static/css/main.08fa15f0.css",
+    "main.js": "/static/js/main.bf217ba1.js",
     "static/js/787.ee0dcc0c.chunk.js": "/static/js/787.ee0dcc0c.chunk.js",
     "static/media/bg.png": "/static/media/bg.e335131413156ce52be0.png",
     "static/media/banner.png": "/static/media/banner.daae6b811a767a84d155.png",
@@ -22,7 +22,6 @@
     "static/media/student.png": "/static/media/student.f3efa11be99a3265c762.png",
     "static/media/business-visa.png": "/static/media/business-visa.f0e6d38b756099fd43f9.png",
     "static/media/worker.png": "/static/media/worker.d5e96482c81d066d6a1c.png",
-    "static/media/team.png": "/static/media/team.4f9088ae966b72690563.png",
     "static/media/tourist.png": "/static/media/tourist.a5e8a5c0e2d7810314fd.png",
     "static/media/la-solid-900.eot": "/static/media/la-solid-900.4184d740eae2fb727bfe.eot",
     "static/media/la-solid-900.ttf": "/static/media/la-solid-900.279f38601f1d1655255f.ttf",
@@ -134,12 +133,12 @@
     "static/media/shape1.svg": "/static/media/shape1.ccac55afd03f4b3679b2.svg",
     "static/media/shapedown.svg": "/static/media/shapedown.e1df7de9868568315004.svg",
     "static/media/shapeup.svg": "/static/media/shapeup.ab8c10305a1875a196ff.svg",
-    "main.f3077ba0.css.map": "/static/css/main.f3077ba0.css.map",
-    "main.63ba1619.js.map": "/static/js/main.63ba1619.js.map",
+    "main.08fa15f0.css.map": "/static/css/main.08fa15f0.css.map",
+    "main.bf217ba1.js.map": "/static/js/main.bf217ba1.js.map",
     "787.ee0dcc0c.chunk.js.map": "/static/js/787.ee0dcc0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3077ba0.css",
-    "static/js/main.63ba1619.js"
+    "static/css/main.08fa15f0.css",
+    "static/js/main.bf217ba1.js"
   ]
 }
