@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.08fa15f0.css",
-    "main.js": "/static/js/main.bf217ba1.js",
+    "main.css": "/static/css/main.5d084ae6.css",
+    "main.js": "/static/js/main.8f9c1763.js",
     "static/js/787.ee0dcc0c.chunk.js": "/static/js/787.ee0dcc0c.chunk.js",
     "static/media/bg.png": "/static/media/bg.e335131413156ce52be0.png",
     "static/media/banner.png": "/static/media/banner.daae6b811a767a84d155.png",
+    "static/media/newsletter-mbl.png": "/static/media/newsletter-mbl.735ca03088a545932bb7.png",
     "static/media/la-brands-400.svg": "/static/media/la-brands-400.331115337bc9be66667a.svg",
     "static/media/la-solid-900.svg": "/static/media/la-solid-900.0f874d69730f8631d632.svg",
     "static/media/graphic.svg": "/static/media/graphic.b62ad7d2a95bd1ed9f8875bd950f4998.svg",
@@ -133,12 +134,12 @@
     "static/media/shape1.svg": "/static/media/shape1.ccac55afd03f4b3679b2.svg",
     "static/media/shapedown.svg": "/static/media/shapedown.e1df7de9868568315004.svg",
     "static/media/shapeup.svg": "/static/media/shapeup.ab8c10305a1875a196ff.svg",
-    "main.08fa15f0.css.map": "/static/css/main.08fa15f0.css.map",
-    "main.bf217ba1.js.map": "/static/js/main.bf217ba1.js.map",
+    "main.5d084ae6.css.map": "/static/css/main.5d084ae6.css.map",
+    "main.8f9c1763.js.map": "/static/js/main.8f9c1763.js.map",
     "787.ee0dcc0c.chunk.js.map": "/static/js/787.ee0dcc0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.08fa15f0.css",
-    "static/js/main.bf217ba1.js"
+    "static/css/main.5d084ae6.css",
+    "static/js/main.8f9c1763.js"
   ]
 }
