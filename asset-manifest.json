@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d084ae6.css",
-    "main.js": "/static/js/main.8f9c1763.js",
+    "main.css": "/static/css/main.1480008c.css",
+    "main.js": "/static/js/main.72ab0193.js",
     "static/js/787.ee0dcc0c.chunk.js": "/static/js/787.ee0dcc0c.chunk.js",
     "static/media/bg.png": "/static/media/bg.e335131413156ce52be0.png",
     "static/media/banner.png": "/static/media/banner.daae6b811a767a84d155.png",
@@ -35,7 +35,7 @@
     "static/media/blog3.png": "/static/media/blog3.090f902beff0927c3543.png",
     "static/media/google.svg": "/static/media/google.7f1e192ce7e0fb6b583bd65d149194a8.svg",
     "static/media/la-solid-900.woff": "/static/media/la-solid-900.893634871a6cbff72157.woff",
-    "static/media/rcic.svg": "/static/media/rcic.b99ba744e8ca921e16f68e5f3d9eb39b.svg",
+    "static/media/rcic.svg": "/static/media/rcic.52f3b67247917b184c283756b84aa3d9.svg",
     "static/media/la-regular-400.svg": "/static/media/la-regular-400.5b8ad6f4ffe812a4eb26.svg",
     "static/media/blog2.png": "/static/media/blog2.862f27879a2dd2e1fb6b.png",
     "static/media/la-brands-400.woff": "/static/media/la-brands-400.925b340f49e65e8bab10.woff",
@@ -76,14 +76,17 @@
     "static/media/goal1.svg": "/static/media/goal1.aae8d95de49ee50bdab4641e19f1584b.svg",
     "static/media/la-regular-400.woff2": "/static/media/la-regular-400.8dc1cedf1f4987f82b72.woff2",
     "static/media/goal2.svg": "/static/media/goal2.5baa7f66a0654bb5185c512e88d8dbcb.svg",
+    "static/media/sitejabber.svg": "/static/media/sitejabber.335ce3d0f70fd82015918960fd6a646b.svg",
+    "static/media/review.svg": "/static/media/review.0dea531d8db2930b080f80c1ab153a74.svg",
     "static/media/reviews.svg": "/static/media/reviews.52d25f65b44274a9fbd5903684ac33b5.svg",
-    "static/media/trustpilot.svg": "/static/media/trustpilot.6ae479feac7395cb8518a3e3ce8ceb9f.svg",
+    "static/media/trustpilot.svg": "/static/media/trustpilot.a3b2f5aad5c4dce6161f0ead231b4639.svg",
     "static/media/star-half.svg": "/static/media/star-half.c78d71247ed7dd5886c32ea0cbe92287.svg",
     "static/media/location.svg": "/static/media/location.b138be8ce5876989f9e930d2375aeb37.svg",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/phone.svg": "/static/media/phone.016e877f84dbc5d67437c19005988d8f.svg",
+    "static/media/star-line.svg": "/static/media/star-line.56e06db1e97541a87cbfc350e77805ee.svg",
     "static/media/chat-bot.svg": "/static/media/chat-bot.6307fb5a5d2d02164d15675887e90245.svg",
     "static/media/call-white-dark.svg": "/static/media/call-white-dark.bc48f36f2ff05fb82551b36250e746be.svg",
     "static/media/call-white.svg": "/static/media/call-white.fc0dd9976d399ec224ac16e6ef788f45.svg",
@@ -134,12 +137,12 @@
     "static/media/shape1.svg": "/static/media/shape1.ccac55afd03f4b3679b2.svg",
     "static/media/shapedown.svg": "/static/media/shapedown.e1df7de9868568315004.svg",
     "static/media/shapeup.svg": "/static/media/shapeup.ab8c10305a1875a196ff.svg",
-    "main.5d084ae6.css.map": "/static/css/main.5d084ae6.css.map",
-    "main.8f9c1763.js.map": "/static/js/main.8f9c1763.js.map",
+    "main.1480008c.css.map": "/static/css/main.1480008c.css.map",
+    "main.72ab0193.js.map": "/static/js/main.72ab0193.js.map",
     "787.ee0dcc0c.chunk.js.map": "/static/js/787.ee0dcc0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d084ae6.css",
-    "static/js/main.8f9c1763.js"
+    "static/css/main.1480008c.css",
+    "static/js/main.72ab0193.js"
   ]
 }
