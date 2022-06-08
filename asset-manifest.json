@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a5660f3f.css",
-    "main.js": "/static/js/main.570bce27.js",
+    "main.css": "/static/css/main.03f3c1f6.css",
+    "main.js": "/static/js/main.cfcd0557.js",
     "static/js/787.ee0dcc0c.chunk.js": "/static/js/787.ee0dcc0c.chunk.js",
     "static/media/bg.png": "/static/media/bg.e335131413156ce52be0.png",
     "static/media/banner.png": "/static/media/banner.daae6b811a767a84d155.png",
@@ -20,6 +20,8 @@
     "static/media/holiday.png": "/static/media/holiday.3eb6550b49fa36afccb8.png",
     "static/media/family.png": "/static/media/family.13a9149c7c84a8036cdc.png",
     "static/media/business.png": "/static/media/business.b5f8bffcae196f42e22a.png",
+    "static/media/blog-3.jpg": "/static/media/blog-3.a28a196d04b933763dbc.jpg",
+    "static/media/blog-1.jpg": "/static/media/blog-1.3ff0f6e5c8680b934785.jpg",
     "static/media/student.png": "/static/media/student.f3efa11be99a3265c762.png",
     "static/media/business-visa.png": "/static/media/business-visa.f0e6d38b756099fd43f9.png",
     "static/media/worker.png": "/static/media/worker.d5e96482c81d066d6a1c.png",
@@ -27,17 +29,14 @@
     "static/media/la-solid-900.eot": "/static/media/la-solid-900.4184d740eae2fb727bfe.eot",
     "static/media/la-solid-900.ttf": "/static/media/la-solid-900.279f38601f1d1655255f.ttf",
     "static/media/about.png": "/static/media/about.88295d4515139ea53ef2.png",
+    "static/media/blog-2.jpg": "/static/media/blog-2.74b8d868d04b06c4acdc.jpg",
     "static/media/success-cover.png": "/static/media/success-cover.7c7aa776a4ef06af2de4.png",
     "static/media/la-brands-400.eot": "/static/media/la-brands-400.908ce19d18187969b32f.eot",
     "static/media/la-brands-400.ttf": "/static/media/la-brands-400.6ecea4826b87fafb97be.ttf",
     "static/media/temporary.png": "/static/media/temporary.05084704e59812d11974.png",
-    "static/media/blog1.png": "/static/media/blog1.090f902beff0927c3543.png",
-    "static/media/blog3.png": "/static/media/blog3.090f902beff0927c3543.png",
-    "static/media/google.svg": "/static/media/google.7f1e192ce7e0fb6b583bd65d149194a8.svg",
     "static/media/la-solid-900.woff": "/static/media/la-solid-900.893634871a6cbff72157.woff",
     "static/media/rcic.svg": "/static/media/rcic.52f3b67247917b184c283756b84aa3d9.svg",
     "static/media/la-regular-400.svg": "/static/media/la-regular-400.5b8ad6f4ffe812a4eb26.svg",
-    "static/media/blog2.png": "/static/media/blog2.862f27879a2dd2e1fb6b.png",
     "static/media/la-brands-400.woff": "/static/media/la-brands-400.925b340f49e65e8bab10.woff",
     "static/media/la-solid-900.woff2": "/static/media/la-solid-900.3efd5ba15a279377d224.woff2",
     "static/media/about-banner.png": "/static/media/about-banner.c65e08578d5ca5e9c744.png",
@@ -118,7 +117,6 @@
     "static/media/login-icon.svg": "/static/media/login-icon.959092430da8379b3381.svg",
     "static/media/shape-arrow.svg": "/static/media/shape-arrow.b7f7b0ae0b373cceae31b99fc8c2e76b.svg",
     "static/media/check.svg": "/static/media/check.232d71a7687dc754634a.svg",
-    "static/media/fb.svg": "/static/media/fb.3d9378ba178306954e6bccb59ce003ca.svg",
     "static/media/facebook.svg": "/static/media/facebook.a2b5a0f9a819b4c98e8206f26829b283.svg",
     "static/media/btn-arrow-blue.svg": "/static/media/btn-arrow-blue.7cf4600df6bc1c5123f3.svg",
     "static/media/btn-arrow-white.svg": "/static/media/btn-arrow-white.940a67c10cf29830771d.svg",
@@ -139,12 +137,12 @@
     "static/media/shape1.svg": "/static/media/shape1.ccac55afd03f4b3679b2.svg",
     "static/media/shapedown.svg": "/static/media/shapedown.e1df7de9868568315004.svg",
     "static/media/shapeup.svg": "/static/media/shapeup.ab8c10305a1875a196ff.svg",
-    "main.a5660f3f.css.map": "/static/css/main.a5660f3f.css.map",
-    "main.570bce27.js.map": "/static/js/main.570bce27.js.map",
+    "main.03f3c1f6.css.map": "/static/css/main.03f3c1f6.css.map",
+    "main.cfcd0557.js.map": "/static/js/main.cfcd0557.js.map",
     "787.ee0dcc0c.chunk.js.map": "/static/js/787.ee0dcc0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5660f3f.css",
-    "static/js/main.570bce27.js"
+    "static/css/main.03f3c1f6.css",
+    "static/js/main.cfcd0557.js"
   ]
 }
